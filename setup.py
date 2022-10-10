@@ -16,4 +16,5 @@ setuptools.setup(
     ],
     url="https://github.com/inesbagulhoms/adb_cluster_log_deleter.git",
     python_requires='>=3.6',
+    packages=find_packages(include=['adb_cluster_log_deleter', 'adb_cluster_log_deleter.*'])
 )
