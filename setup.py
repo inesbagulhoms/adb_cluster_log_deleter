@@ -14,5 +14,6 @@ setuptools.setup(
     classifiers=[
         "Programming Language :: Python :: 3",
     ],
+    url="https://github.com/inesbagulhoms/adb_cluster_log_deleter.git"
     python_requires='>=3.6',
 )
