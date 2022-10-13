@@ -1,0 +1,12 @@
+README.md
+setup.py
+logdeleter/LogDeleter-1.py
+logdeleter/LogDeleter.py
+logdeleter/__init__-1.py
+logdeleter/__init__.py
+logdeleter/clusterLogDeleter-1.py
+logdeleter/clusterLogDeleter.py
+logdeleter.egg-info/PKG-INFO
+logdeleter.egg-info/SOURCES.txt
+logdeleter.egg-info/dependency_links.txt
+logdeleter.egg-info/top_level.txt

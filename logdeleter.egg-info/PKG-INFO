@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: logdeleter
+Version: 1.0.0
+Summary: Azure Databricks Custom cluster log deleter
+Home-page: https://github.com/inesbagulhoms/adb_cluster_log_deleter.git
+Author: Inês Bagulho
+Author-email: inesbagulho@microsoft.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
